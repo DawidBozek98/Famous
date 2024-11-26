@@ -1,6 +1,6 @@
 # Johnny Depp
 
-![Johnny Depp](https://upload.wikimedia.org/wikipedia/commons/d/d3/Johnny_Depp_2018.jpg)
+![Johnny Depp](https://upload.wikimedia.org/wikipedia/commons/4/47/Johnny_Depp_2018.jpg)
 
 ## Short Description
 
